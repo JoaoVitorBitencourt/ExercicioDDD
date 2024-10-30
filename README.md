@@ -1,15 +1,15 @@
 # Entidades
- - Produto
+ 1. Produto
   - Identificador
   - Tamanho
   - Cor
   - Preço atual
 
- - Venda 
+ 2. Venda 
   - Identificador
   - Data da venda
 
- - Itens vendidos
+ 3. Itens vendidos
   - Identificador
   - Identificador da venda
   - Identificador do produto
@@ -17,14 +17,14 @@
   - Preço de venda da unidade
   - Lucro gerado
 
- - Estoque
+ 4. Estoque
   - Identificador
   - Identificador do produto
   - Quantidade em estoque
   - Quantidade mínima 
   - Preço de compra
 
- - Ordem
+ 5. Ordem
   - Identificador
   - Identificador do produto
   - Quantidade solicitada
